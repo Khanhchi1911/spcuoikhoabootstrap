@@ -1,0 +1,7 @@
+#product-list .product {
+    margin: 8px;
+    width: calc(25% - 16px);
+}
+.logo {
+    width: 100px;
+}
